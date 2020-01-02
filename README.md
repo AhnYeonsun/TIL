@@ -1,9 +1,14 @@
 # Today I learnd
-
 about anything
 
 ___
-
+> git status
+> git add filename (or * for all)
+> git commit -m "commitMsg"
+> git remote add origin gitAddress
+> git remote -v
+> git push
+---
 ls: list segment
 * ls -l: detailed
 * ls -a: hidden
