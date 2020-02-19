@@ -1,3 +1,1 @@
-
-t = (input()).split(" ")
-print(t)
+print(max(3,4,5,6))
